@@ -4,4 +4,4 @@ Iniciando no repositório Git :)
 
 Well, well!
 
-Just one more entusiasta!!
+Just one more enthusiastic!!
